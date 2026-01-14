@@ -1,0 +1,11 @@
+{
+  "name": "exchange-bot-vercel",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "axios": "^1.6.0"
+  }
+}
